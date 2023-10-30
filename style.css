@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "SevenSegment";
+  src: url("SevenSegment.ttf") format("truetype");
+}
+body {
+  font-size: 2rem;
+  background-color: black;
+  font-family: "SevenSegment", sans-serif;
+  color: greenyellow;
+  margin: 20vh 30vw;
+}
